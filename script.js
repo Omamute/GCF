@@ -1,7 +1,7 @@
 // Mensagem de boas-vindas ao usuário
-window.addEventListener('load', function () {
+/*window.addEventListener('load', function () {
     alert("Bem-vindo à Imobiliária GCF!");
-  });
+  });*/ /*fiz esse comentario para parar com o alerta caso queira ainda está aqui*/
   
   // Rolagem suave ao clicar nos links do menu
   document.querySelectorAll('nav a[href^="#"]').forEach(link => {
